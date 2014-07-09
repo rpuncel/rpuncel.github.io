@@ -8,5 +8,5 @@ Something Something
 
 wolololol
 
-out of synce
+out of sync
 push pull etc
